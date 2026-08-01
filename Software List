@@ -1,4 +1,11 @@
 1.github
 2.google colab
 3.VS code- visuval studio code (https://code.visualstudio.com/)
-Install the in the VSC-> Jupyter
+Install the in the VSC
+  -> Jupyter (its used to run loops and opreations in python) : .ipynb
+  -> Office viewer : .doc, .xls
+  -> Pylance
+  -> Python
+  -> Python Debugger
+  ->
+ 
